@@ -8,10 +8,9 @@ from selenium import webdriver
 
 
 
-class MyLib():
+class Bromo():
     def __init__(self, driver):
-        ''' if driver == 'chrome':
-            self.driver = webdriver.Chrome(ChromeDriverManager().install())'''
+      
         self.driver = driver
     
     def click(self, tag, method = 'xpath', time=10):
