@@ -10,7 +10,7 @@ from selenium import webdriver
 
 class Bromo():
     def __init__(self, driver):
-      
+       
         self.driver = driver
     
     def click(self, tag, method = 'xpath', time=10):
