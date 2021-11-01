@@ -1,0 +1,7 @@
+README.md
+setup.py
+Bromo.egg-info/PKG-INFO
+Bromo.egg-info/SOURCES.txt
+Bromo.egg-info/dependency_links.txt
+Bromo.egg-info/not-zip-safe
+Bromo.egg-info/top_level.txt
