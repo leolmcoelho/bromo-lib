@@ -1,11 +1,11 @@
 Metadata-Version: 2.1
 Name: Bromo
 Version: 0.1
-Summary: UNKNOWN
+Summary: lib to help with page loading strategy
 Home-page: https://github.com/CoelhoBranco/bromo-lib
 Author: Leonardo Coelho
 Author-email: leonardo_leal15@outlook.com
-License: UNKNOWN
+License: MIT
 Platform: UNKNOWN
 
 # bromo-lib
@@ -13,14 +13,15 @@ This is the Bromo library repository for python. It is intended to make interact
 
 
 
-# Modo de uso:
+# Use:
 As the library is not officially released, one way to use it is to download it and leave it on the same page as the code.
 
 From bromo import Bromo
+From Selenium Import Webdriver
 
-driver = webdriver.Chrome()
+driver = Webdriver.Chrome()
 
-br(driver)
+br = Bromo(driver)
 
 example:
 

@@ -1,4 +1,6 @@
+MANIFEST.in
 README.md
+requirements.txt
 setup.py
 Bromo.egg-info/PKG-INFO
 Bromo.egg-info/SOURCES.txt

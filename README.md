@@ -6,11 +6,12 @@ This is the Bromo library repository for python. It is intended to make interact
 # Use:
 As the library is not officially released, one way to use it is to download it and leave it on the same page as the code.
 
-From bromo import Bromo 
+From bromo import Bromo
+From Selenium Import Webdriver
 
-driver = webdriver.Chrome()
+driver = Webdriver.Chrome()
 
-br(driver)
+br = Bromo(driver)
 
 example:
 

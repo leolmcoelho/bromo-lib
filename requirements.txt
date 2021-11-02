@@ -38,7 +38,3 @@ virtualenv==20.9.0
 webdriver-manager==3.5.1
 wsproto==1.0.0
 zipp==3.6.0
-
-
-requests==2.26.0
-selenium==4.0.0

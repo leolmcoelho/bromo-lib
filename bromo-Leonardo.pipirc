@@ -1,0 +1,11 @@
+[distutils] 
+index-servers=pypi
+
+ 
+[Bromo]
+repository = https://pypi.python.org/pypi
+username = CoelhoBranco
+
+[pypi]
+repository = https://pypi.python.org/pypi
+username = CoelhoBranco
