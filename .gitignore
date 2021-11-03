@@ -1,1 +1,5 @@
-teste
+teste/
+setup.cfg/
+links.txt/
+bromo.pypirc/
+setup.py
