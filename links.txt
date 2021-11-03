@@ -1,0 +1,5 @@
+https://code.tutsplus.com/pt/tutorials/how-to-write-package-and-distribute-a-library-in-python--cms-28693
+
+https://code.tutsplus.com/tutorials/how-to-write-your-own-python-packages--cms-26076
+
+https://www.alura.com.br/artigos/como-publicar-seu-codigo-python-no-pypi
