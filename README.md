@@ -4,8 +4,17 @@ This is the Bromo library repository for python. It is intended to make interact
 
 
 # Use:
-As the library is not officially released, one way to use it is to download it and leave it on the same page as the code.
+For your use, run the command on the terminal 
 
+~~~
+pip install Bromo==0.1 
+
+OR 
+
+pip3 install Bromo==0.1
+~~~
+
+~~~python
 From bromo import Bromo
 From Selenium Import Webdriver
 
@@ -16,7 +25,7 @@ br = Bromo(driver)
 example:
 
 br.click(xpath)
-
+~~~
 
 
 # Contact:
