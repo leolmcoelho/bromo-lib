@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+requirements.txt
+setup.cfg
+setup.py
+src/Bromo/__init__.py
+src/Bromo/bromo.py
+src/bromo.egg-info/PKG-INFO
+src/bromo.egg-info/SOURCES.txt
+src/bromo.egg-info/dependency_links.txt
+src/bromo.egg-info/not-zip-safe
+src/bromo.egg-info/top_level.txt

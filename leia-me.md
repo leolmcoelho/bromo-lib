@@ -7,11 +7,11 @@ Este é o repositório da biblioteca Bromo, para python. Ela tem o objetivo de f
 # Modo de uso:
 Como a bilbioteca não está oficialmente lançada, uma forma de usa-la é baixando e deixando ela na mesma pagina do codigo.
 
-From bromo import Bromo
+from Bromo.bromo import Bromo
 
 driver = webdriver.Chrome()
 
-br(driver)
+br = Bromo(driver)
 
 exemplo:
 
